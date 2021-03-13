@@ -1,14 +1,1 @@
-- 👋 Hi, I’m @AzraelRBN
-- 👀 I’m interested in learning how to code in various languages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me:
-      Email:
-        lukem9376@gmail.com
-      Discord:
-        TheOriginal#0135
-
-<!---
-AzraelRBN/AzraelRBN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there, it's Azrael. If you see this project and want to help, hit me up. It's just a little bot I'm putting together. I'm new to coding, so I'm kinda just doing my own thing. This project is completely in Python, cause that's the language I'm currently learning. My gmail is lukem9376@gmail.com nd my discord is TheOriginal#0135.
